@@ -12,6 +12,8 @@ namespace GitHubTestApp
         {
 
             Console.WriteLine("Hello Group I hope this works");
+            Console.WriteLine("Hi there...uma here");
+
             Console.ReadLine();
 
         }
